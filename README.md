@@ -1,6 +1,6 @@
 # About me
 #### 📚 Computer Science Bachelor's Degree @Goldsmiths, University of London
-#### 📃 For my full experience see: [resume]()
+#### 📃 For my full experience see: [resume](https://drive.google.com/file/d/14dUuRaW0KQo3y93q3T7SKOBaJXCKsLX1/view?usp=sharing)
 
 # My Hub
 
@@ -21,6 +21,7 @@
 
 > Databases
 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
